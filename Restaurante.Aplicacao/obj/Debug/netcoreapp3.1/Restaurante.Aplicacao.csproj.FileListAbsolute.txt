@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\RestauranteTeste\Restaurante.Aplicacao\bin\Debug\netcoreapp3.1\Restaurante.Dominio.dll
+C:\Users\User\source\repos\RestauranteTeste\Restaurante.Aplicacao\obj\Debug\netcoreapp3.1\Restaurante.Aplicacao.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RestauranteTeste\Restaurante.Aplicacao\obj\Debug\netcoreapp3.1\Restaurante.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RestauranteTeste\Restaurante.Aplicacao\obj\Debug\netcoreapp3.1\Restaurante.Aplicacao.AssemblyInfo.cs
